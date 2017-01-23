@@ -1,4 +1,4 @@
-a:9:{s:22:"dynamik_theme_settings";a:29:{s:22:"remove_all_page_titles";i:0;s:22:"remove_page_titles_ids";s:0:"";s:22:"include_inpost_cpt_all";i:0;s:24:"include_inpost_cpt_names";s:0:"";s:19:"post_formats_active";i:0;s:17:"protected_folders";s:0:"";s:18:"responsive_enabled";i:1;s:22:"design_options_control";s:12:"kitchen_sink";s:14:"affiliate_link";s:0:"";s:26:"custom_image_size_one_mode";s:0:"";s:27:"custom_image_size_one_width";s:1:"0";s:28:"custom_image_size_one_height";s:1:"0";s:26:"custom_image_size_two_mode";s:0:"";s:27:"custom_image_size_two_width";s:1:"0";s:28:"custom_image_size_two_height";s:1:"0";s:28:"custom_image_size_three_mode";s:0:"";s:29:"custom_image_size_three_width";s:1:"0";s:30:"custom_image_size_three_height";s:1:"0";s:27:"custom_image_size_four_mode";s:0:"";s:28:"custom_image_size_four_width";s:1:"0";s:29:"custom_image_size_four_height";s:1:"0";s:27:"custom_image_size_five_mode";s:0:"";s:28:"custom_image_size_five_width";s:1:"0";s:29:"custom_image_size_five_height";s:1:"0";s:22:"protocol_relative_urls";i:0;s:17:"codemirror_active";i:1;s:31:"bootstrap_column_classes_active";i:1;s:16:"html_five_active";i:1;s:22:"fancy_dropdowns_active";i:1;}s:18:"dynamik_custom_css";a:3:{s:10:"custom_css";s:716:"/* Beaver Builder Full Width Page*/
+a:9:{s:22:"dynamik_theme_settings";a:29:{s:22:"remove_all_page_titles";i:0;s:22:"remove_page_titles_ids";s:0:"";s:22:"include_inpost_cpt_all";i:0;s:24:"include_inpost_cpt_names";s:0:"";s:19:"post_formats_active";i:0;s:17:"protected_folders";s:0:"";s:18:"responsive_enabled";i:1;s:22:"design_options_control";s:12:"kitchen_sink";s:14:"affiliate_link";s:0:"";s:26:"custom_image_size_one_mode";s:0:"";s:27:"custom_image_size_one_width";s:1:"0";s:28:"custom_image_size_one_height";s:1:"0";s:26:"custom_image_size_two_mode";s:0:"";s:27:"custom_image_size_two_width";s:1:"0";s:28:"custom_image_size_two_height";s:1:"0";s:28:"custom_image_size_three_mode";s:0:"";s:29:"custom_image_size_three_width";s:1:"0";s:30:"custom_image_size_three_height";s:1:"0";s:27:"custom_image_size_four_mode";s:0:"";s:28:"custom_image_size_four_width";s:1:"0";s:29:"custom_image_size_four_height";s:1:"0";s:27:"custom_image_size_five_mode";s:0:"";s:28:"custom_image_size_five_width";s:1:"0";s:29:"custom_image_size_five_height";s:1:"0";s:22:"protocol_relative_urls";i:0;s:17:"codemirror_active";i:1;s:31:"bootstrap_column_classes_active";i:1;s:16:"html_five_active";i:1;s:22:"fancy_dropdowns_active";i:1;}s:18:"dynamik_custom_css";a:3:{s:10:"custom_css";s:692:"/* Beaver Builder Full Width Page*/
 
 .beaver-page.fl-builder .content,
 .beaver-page.fl-builder .content .page,
@@ -27,10 +27,6 @@ a:9:{s:22:"dynamik_theme_settings";a:29:{s:22:"remove_all_page_titles";i:0;s:22:
 .wrap {
 	max-width: 980px;
 }
-
-.fl-col-group {
-}
-
 ";s:24:"css_builder_popup_active";i:0;s:29:"css_builder_popup_editor_only";i:0;}s:24:"dynamik_custom_functions";a:2:{s:29:"custom_functions_effect_admin";i:0;s:16:"custom_functions";s:65:"<?php
 /* Do not remove this line. Add your functions below. */
 ";}s:17:"dynamik_custom_js";a:2:{s:17:"custom_js_in_head";i:0;s:9:"custom_js";s:0:"";}s:17:"dynamik_templates";a:1:{s:13:"bb-full-width";a:4:{s:18:"template_file_name";s:13:"bb-full-width";s:13:"template_name";s:25:"Beaver Builder Full Width";s:13:"template_type";s:13:"page_template";s:17:"template_textarea";s:910:"&lt;?php
